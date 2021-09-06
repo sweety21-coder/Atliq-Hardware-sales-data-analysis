@@ -88,9 +88,15 @@ and transactions.market_code="Mark001";`
 
 **Formula**
 
-**norm_sales_amount = Table.AddColumn(sales_transactions, "Norm_sales_amount", each if [currency] = "USD" then [sales_amount]*73 else [sales_amount])**
+norm_sales_amount = Table.AddColumn(sales_transactions, "Norm_sales_amount", each if [currency] = "USD" then [sales_amount]*73 else [sales_amount])
 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Norm_sales_amount%20column.PNG?raw=true" width=50% height=50%>
+
+## Data Modeling
+
+Create Entity-Relationship the model forms star schema
+
+<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Data%20Modeling.PNG?raw=true" width=50% height=50%>
 
 
 

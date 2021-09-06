@@ -28,13 +28,8 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
 
 * Simple analysis of data by looking into different tables and reflecting garbage values in MYSQL-
 
-### Data cleansing -Perfromed ETL in Power Query Editor 
 
-* The table market contains data for international market and AtliQ do not sell in international market so that's a garbage data.Removed them while transforming data.
-
-* Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
-
-## Primary analysis of data base by running different SQL statements
+### Primary analysis of data base by running different SQL statements
 
 1. Show all customer records
 
@@ -72,6 +67,14 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
+
+## Import data in power BI for Data cleansing - Perfromed ETL in Power Query Editor 
+
+* The table market contains data for international market and AtliQ do not sell in international market so that's a garbage data.Removed them while transforming data.
+
+* Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
+
+
 
 
 

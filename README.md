@@ -6,8 +6,11 @@
 * 3.🗄 Data Modeling/data Mashup
 * 4.📊 Data Visualization
 
-## PROBLEM STATEMENT
+**INTRODUCTION**
 AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India. The head office of the company is situated in Delhi.
+
+
+## PROBLEM STATEMENT
 The sales manager of the company is facing issues in tracking sales in dynamically growing market.In order to know the performance of company he has different regional managers
 from north south and central of India .
 

@@ -94,7 +94,7 @@ norm_sales_amount = Table.AddColumn(sales_transactions, "Norm_sales_amount", eac
 
 ## Data Modeling
 
-Create Entity-Relationship the model forms star schema
+Created Entity-Relationship between tables,the model eventually forms star schema
 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Data%20Modeling.PNG?raw=true" width=50% height=50%>
 

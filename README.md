@@ -87,7 +87,8 @@ and transactions.market_code="Mark001";`
 * In sales Transactions table - Sales amount have some values in USD that we have converted into INR by using current conversion rate using DAX created new column 'norm_sales_amount.
 
 **Formula**
-**norm_sales_amount = Table.AddColumn(sales_transactions, "Norm_sales_amount", each if [currency] = "USD" then [sales_amount]*73 else [sales_amount])**
+
+***norm_sales_amount = Table.AddColumn(sales_transactions, "Norm_sales_amount", each if [currency] = "USD" then [sales_amount]*73 else [sales_amount])***
 
 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Norm_sales_amount%20column.PNG?raw=true" width=50% height=50%>

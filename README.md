@@ -74,6 +74,10 @@ and transactions.market_code="Mark001";`
 
 * Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
 
+### Get data in power BI from MYSQL database
+
+
+<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Provide%20database%20&%20server%20name.PNG?raw=true width=50% height=50%>
 
 
 

@@ -69,6 +69,7 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
 and transactions.market_code="Mark001";`
 
 
+
 ### Get data in power BI from MYSQL database- Provide your server name and database 
 
 

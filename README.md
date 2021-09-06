@@ -68,18 +68,22 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
-## Import data in power BI for Data cleansing - Perfromed ETL in Power Query Editor 
 
-* The table market contains data for international market and AtliQ do not sell in international market so that's a garbage data.Removed them while transforming data.
-
-* Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
-
-### Get data in power BI from MYSQL database
+### Get data in power BI from MYSQL database- Provide your server name and database 
 
 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Provide%20database%20&%20server%20name.PNG?raw=true" width=50% height=50%>
 
+### Load data in power BI
 
+<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Load%20database%20in%20power%20BI.PNG?raw=true" width=50% height=50%>
+
+
+## Data Cleansing - Perfromed ETL in Power Query Editor 
+
+* The table market contains data for international market and AtliQ do not sell in international market so that's a garbage data.Removed them while transforming data.
+
+* Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
 
 
 

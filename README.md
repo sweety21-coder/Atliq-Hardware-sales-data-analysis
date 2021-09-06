@@ -15,6 +15,18 @@ from north south and central of India .
 
 All he wants is a simple data visualization tool which he can access on daily basis.
 
+## Data discovery/data cleansing
+
+#### How will the company work —
+There is a team of software engineers (falcons) which owns sales management system. The records of this system are stored in MySQL database.
+The team of Data Analyst (Data masters) reaches out to the software engineers to get an access to data base which they can use to create the dashboard in PowerBI.
+
+#### In this same manner We are going to fetch the data from the database and then we are going to transform and load the data in the PowerBI to build the dashboard.
+
+* Import the data in MySQL workbench 
+<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Data%20import%20in%20MYSQL.png?raw=true" width=50% height=50%>
+
+
 
 
 

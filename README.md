@@ -74,6 +74,7 @@ and transactions.market_code="Mark001";`
 
 
 
+
 ### Get data in power BI from MYSQL database- Provide your server name and database 
 
 

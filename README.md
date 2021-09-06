@@ -6,6 +6,7 @@
 * 3.🗄 Data Modeling/data Mashup
 * 4.📊 Data Visualization
 
+
 **INTRODUCTION**
 AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India. The head office of the company is situated in Delhi.
 

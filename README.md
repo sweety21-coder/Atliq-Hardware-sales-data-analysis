@@ -26,6 +26,12 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
 * Import the data in MySQL workbench 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Data%20import%20in%20MYSQL.png?raw=true" width=50% height=50%>
 
+* Simple analysis of data by looking into different tables and reflecting garbage values in MYSQL-
+
+### Data cleansing 
+
+* The table market contains 
+
 
 
 

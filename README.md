@@ -31,9 +31,10 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
 ### Data cleansing -Perfromed ETL in Power Query Editor 
 
 * The table market contains data for international market and AtliQ do not sell in international market so that's a garbage data.Removed them while transforming data.
-*Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
 
-### Primary analysis of data base by running different SQL statements
+* Sales amount has some values in USD that we have converted into INR by using current conversion rate bu using DAX.
+
+## Primary analysis of data base by running different SQL statements
 
 1. Show all customer records
 

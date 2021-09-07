@@ -105,11 +105,26 @@ Created Entity-Relationship between tables, the model eventually forms star sche
 
 ## Data Visualization/Dashboard
 
+simple visual display of the most important information that decision makers need to help them achieve objectives.
+
 * Key Insights
 * Profit Analysis
 * Performance insights
 
+### Key Insights -
+To increase the sales growth , Sales director need to look into these areas
+* Revenue by markets
+* Sales Qty by markets
+* Revenue Trend
+* Top Customer by Revenue
+* Top 5 Products by Revenue
+* Revenue by Zone(can also be filtered out)
+* Sales Quantity by Zone (can also be filtered out)
+
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/Key%20Insights.PNG?raw=true" width=50% height =50%>
+
+
+### Profit Analysis
 
 
 

@@ -109,7 +109,7 @@ Created Entity-Relationship between tables, the model eventually forms star sche
 * Profit Analysis
 * Performance insights
 
-<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/Key%20Insights.PNG?raw=true" width=50% height =50%
+<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/Key%20Insights.PNG?raw=true" width=50% height =50%>
 
 
 

@@ -126,12 +126,23 @@ To increase the sales growth , Sales director need to look into these areas
 
 ### Profit Analysis
 * Revenue Contribution by market
-* Profit % by market
-* Total profit contribution by market in %
-* Table- Shows top to bottom customers by profit margin contribution in %
+* Profit margin % by market
+* Total profit margin contribution by market in %
+* Table- Shows top to bottom customers by Total profit margin contribution in %
 
 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Profit%20Analysis.PNG?raw=true" width=50% height=50%>
+
+
+### Performance insights
+* Profit margin % by Zone ( Created Dynamic Red Alert in the dashboard whenever performance of a certain zone/zones falls below certain mark)
+As chart shows negative or low profit margin %(below 2%) for few zones alterted red mark which indicates these are concerned area.
+* Revenue Trend - Shows comparision of revenue from previous year to current year (2020) where line chart indicating profit margin trend.
+* Table- Shows Top to bottom customer by Profit margin %.
+
+
+<img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Performance%20insights.PNG?raw=true" width=50% height=50%>
+
 
 
 

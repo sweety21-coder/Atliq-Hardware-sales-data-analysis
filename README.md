@@ -125,7 +125,10 @@ To increase the sales growth , Sales director need to look into these areas
 
 
 ### Profit Analysis
-
+* Revenue Contribution by market
+* Profit % by market
+* Total profit contribution by market in %
+* Table- Shows top to bottom customers by profit margin contribution in %
 
 
 <img src="https://github.com/sweety21-coder/Atliq-Hardware-sales-data-analysis/blob/main/IMG/Profit%20Analysis.PNG?raw=true" width=50% height=50%>

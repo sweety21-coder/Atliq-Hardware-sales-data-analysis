@@ -8,7 +8,7 @@
 
 
 ## INTRODUCTION
-Atliq hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India. The head office of the company is situated in Delhi.
+Atliq hardware is a company in India which supplies computer hardware and peripheral devices across India only. They have many stores across India. The head office of the company is situated in Delhi.
 
 
 ## PROBLEM STATEMENT

@@ -64,18 +64,28 @@ where sales.date.year=2020;`
 
 7. Show total revenue in year 2020,
 
-    `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.currency="INR\r" or transactions.currency="USD\r";`
+    `select sum(sales_amount) as total_revenue
+    from sales.transactions
+    join sales.date
+    on sales.transactions.order_date=sales.date.date
+    where sales.date.year=2020;`
 	
 8. Show total revenue in year 2020, January Month,
 
-    `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and and date.month_name="January" and (transactions.currency="INR\r" or transactions.currency="USD\r");`
+    `select sum(sales_amount) as total_revenue_january
+    from sales.transactions
+    join sales.date
+on sales.transactions.order_date=sales.date.date
+where sales.date.year=2020 and sales.date.month_name='January';`
 
 9. Show total revenue in year 2020 in Chennai
 
-    `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
-and transactions.market_code="Mark001";`
-
-
+    `select sum(sales_amount) as total_revenue_Chennai_2020
+from sales.transactions
+join sales.date
+on sales.transactions.order_date=sales.date.date
+where market_code='Mark001'
+and sales.date.year=2020;`
 
 
 ### Get data in power BI from MYSQL database- Provide your server name and database 

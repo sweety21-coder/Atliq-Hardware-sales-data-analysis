@@ -57,7 +57,10 @@ The team of Data Analyst (Data masters) reaches out to the software engineers to
 
 6. Show transactions in 2020 join by date table
 
-    `SELECT transactions.*, date.* FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020;`
+`select * from sales.transactions 
+join sales.date
+on sales.transactions.order_date=sales.date.date
+where sales.date.year=2020;`
 
 7. Show total revenue in year 2020,
 
